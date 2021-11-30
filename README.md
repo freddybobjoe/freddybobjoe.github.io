@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - I’m looking to collaborate on see below.
 - I’m looking for help with a live chat website.
 -->
-![nintendo switch joycons](https://user-images.githubusercontent.com/90323987/144112020-1e2cd34f-2efe-4e13-af72-10f33a6767c4.jpg)
-![nintendo switch oled](https://user-images.githubusercontent.com/90323987/144112063-4306312c-18e9-4394-a564-a1d5e7f53ccc.jpg)
 
+<img width="1050" alt="homepage-buy-sell-lg@2x" src="https://user-images.githubusercontent.com/90323987/144112794-aa9cf8e6-22c3-4977-848f-04655653558c.png">
